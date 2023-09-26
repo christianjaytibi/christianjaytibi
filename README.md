@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning PHP Laravel
 - ⚡ I’m interested in learning new technologies.
-- 📫 You can reach me at chtbi@my.cspc.edu.ph
+- 📫 You can reach me at chtibi@my.cspc.edu.ph
 - 🔭 **Let's learn as we explore!**
 
 
