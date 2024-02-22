@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I'm Christian Jay</h1>
 
-- 🌱 I’m currently learning PHP Laravel
+- 🌱 I’m currently learning.
 - ⚡ I’m interested in learning new technologies.
 - 📫 You can reach me at chtibi@my.cspc.edu.ph
 - 🔭 **Let's learn as we explore!**
