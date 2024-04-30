@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Christian Jay</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lexend&duration=4000&pause=500&color=FFBD45&center=true&vCenter=true&random=false&width=435&lines=Hi+%F0%9F%91%8B;Thanks+for+the+visit!)](https://git.io/typing-svg)
 
 - 🌱 I’m currently learning.
 - ⚡ I’m interested in learning new technologies.
