@@ -1,9 +1,20 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lexend&duration=4000&pause=500&color=FFBD45&center=true&vCenter=true&random=false&width=435&lines=Hi+%F0%9F%91%8B;Thanks+for+the+visit!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=25&duration=3500&pause=1000&color=FFDE0E&center=true&vCenter=true&repeat=false&width=745&height=45&lines=Hello+there!+It+appears+you've+caught+me+slacking.)](https://git.io/typing-svg)
 
-- 🌱 I’m currently learning.
-- ⚡ I’m interested in learning new technologies.
+Welcome to my GitHub profile—now featuring occasional signs of life.
+
+## A Little About Me
+- 🍃 I’m currently learning the Spring ecosystem.
+- ⚡ I like working with data.
 - 📫 You can reach me at chtibi@my.cspc.edu.ph
-- 🔭 **Let's learn as we explore!**
+- 🔭 I love the idea of learning continuously.
+
+## What I Use
+|               | Technologies                                                                    |
+| ------------- | ------------------------------------------------------------------------------- |
+| **Languages** | <img src="https://go-skill-icons.vercel.app/api/icons?i=java,python"/>          |
+| **Backend**   | <img src="https://go-skill-icons.vercel.app/api/icons?i=spring,springdatajpa"/> |
+| **Databases** | <img src="https://go-skill-icons.vercel.app/api/icons?i=mysql,postgres"/>       |
+| **Tools**     | <img src="https://go-skill-icons.vercel.app/api/icons?i=git,maven,postman"/>    |
 
 
 <!---
