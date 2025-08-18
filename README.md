@@ -1,6 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=25&duration=3500&pause=1000&color=FFDE0E&center=true&vCenter=true&repeat=false&width=745&height=45&lines=Hello+there!+It+appears+you've+caught+me+slacking.)](https://git.io/typing-svg)
+<h1>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=25&duration=2000&pause=1000&color=FFDE0E&vCenter=true&repeat=false&width=175&height=45&lines=Hello+there!+" alt="Typing SVG" /></a>
+</h1>
 
-Welcome to my GitHub profile—now featuring occasional signs of life.
+It appears you've caught me slacking. Welcome to my GitHub profile—now featuring occasional signs of life.
 
 ## A Little About Me
 - 🍃 I’m currently learning the Spring ecosystem.
