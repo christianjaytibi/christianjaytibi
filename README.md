@@ -8,7 +8,7 @@ It appears you've caught me slacking. Welcome to my GitHub profile—now featuri
 - 🍃 I’m currently learning the Spring ecosystem.
 - ⚡ I like working with data.
 - 📫 You can reach me at chtibi@my.cspc.edu.ph
-- 🔭 I love the idea of learning continuously.
+- 🔭 I try to ```~$git gud``` every day.
 
 ## What I Use
 |               | Technologies                                                                    |
